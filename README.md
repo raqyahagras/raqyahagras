@@ -46,10 +46,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 🚀 Fun GIF:
 <img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="400" height="300">
 
-### 🔥 Visitor Count:
-<p align="center">
-  <img src="https://profile-counter.glitch.me/raqyahagras/count.svg" alt="Visitor Count">
-</p>
+### 🔥 Visitor Count:  
+<img src="https://profile-counter.glitch.me/raqyahagras/count.svg" alt="Visitor Count">
