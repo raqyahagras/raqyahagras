@@ -13,13 +13,19 @@
 - 🏢 A Junior .Net Backend web developer  
 - 🎓 A Computer Science graduate  
 - 👨‍💻 Constantly learning and exploring new technologies to improve my skills  
-- 💬 Ask me about <strong>C#, SQL Server, and ASP.NET Core</strong>  
+- 💬 Ask me about <strong>C#, SQL Server and Asp.net Core</strong>  
 
-### Contact Me :
+### 📞 Contact Me :
 
-<a href="https://www.linkedin.com/in/raqya-hagras-757742219" target="_blank"><img src="https://img.shields.io/badge/-Raqya%20Hagras-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201276291016" target="_blank"><img src="https://img.shields.io/badge/-Raqya%20Hagras-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="mailto:raqya18200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Raqya%20Hagras-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://www.linkedin.com/in/raqya-hagras-757742219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/badge/-Raqya%20Hagras-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://wa.me/+201276291016" target="_blank">
+  <img src="https://img.shields.io/badge/-Raqya%20Hagras-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+</a>
+<a href="mailto:raqya18200@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Raqya%20Hagras-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,8 +44,14 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqyahagras&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="raqyahagras" />
+---
+
+### 📊 Most Used Languages:
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqyahagras&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=4&hide=C#,ASP.NET,Entity%20Framework,LINQ&include_repo=true&custom_title=Most%20Used%20Languages&card_width=350" alt="raqyahagras" />
+
 <br>
+
 <a href="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
- <img src="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
 </a>
