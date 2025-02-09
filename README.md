@@ -44,12 +44,6 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
----
-
-### 📊 Most Used Languages:
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqyahagras&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=4&hide=C#,ASP.NET,Entity%20Framework,LINQ&include_repo=true&custom_title=Most%20Used%20Languages&card_width=350" alt="raqyahagras" />
-
 <br>
 
 <a href="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
