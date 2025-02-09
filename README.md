@@ -7,10 +7,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+ </a>
 </p>
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" height="200"/>
 
 - 🏢 A Junior .Net Backend web developer  
 - 🎓 A Computer Science graduate  
@@ -46,8 +46,10 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+### 🚀 Fun GIF:
+<img align="center" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding GIF" width="400" height="300">
 
-<a href="https://profile-counter.glitch.me/raqyahagras/count.svg">
-  <img src="https://profile-counter.glitch.me/raqyahagras/count.svg">
-</a>
+### 🔥 Visitor Count:
+<p align="center">
+  <img src="https://profile-counter.glitch.me/raqyahagras/count.svg" alt="Visitor Count">
+</p>
