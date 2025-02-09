@@ -38,7 +38,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqyahagras&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="raqyahagras" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqyahagras&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=4&hide=C#,ASP.NET,Entity%20Framework,LINQ" alt="raqyahagras" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
  <img src="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
