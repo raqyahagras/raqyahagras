@@ -1,52 +1,45 @@
 <h3 align="center">
- Welcome to Raqya Hagras's Profile! 
+ Welcome to Raqya Hagras's profile!
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
 
-<!-- Typing SVG -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.NET%20Developer;Building%20scalable%20and%20efficient%20systems&font=Fira%20Code&center=true&width=440&height=45&color=ff9800&vCenter=true&size=22">
- </a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-## 👨‍💻 About Me
-- 🏢 **Professional Backend .NET Developer**  
-- 🎓 **Computer Science Graduate**  
-- 🔥 Passionate about **C#, SQL Server, and ASP.NET Core**  
-- 📚 Dedicated to crafting high-performance applications  
+- 🏢 A Junior .Net Backend web developer  
+- 🎓 A Computer Science graduate  
+- 👨‍💻 Constantly learning and exploring new technologies to improve my skills  
+- 💬 Ask me about <strong>C#, SQL Server, and ASP.NET Core</strong>  
 
----
+### Contact Me :
 
-## 🌟 Fun Facts 
+<a href="https://www.linkedin.com/in/raqya-hagras-757742219" target="_blank"><img src="https://img.shields.io/badge/-Raqya%20Hagras-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://wa.me/+201276291016" target="_blank"><img src="https://img.shields.io/badge/-Raqya%20Hagras-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
+<a href="mailto:raqya18200@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Raqya%20Hagras-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Globe%20Trotter%20🌍;Fitness%20Freak%20🏋️;Curious%20Mind%20🔍&font=Fira%20Code&center=true&width=440&height=45&color=ff9800&vCenter=true&size=22">
- </a>
-</p>
+### 🛠 &nbsp;Tech Stack
 
-- **🌍 Wanderlust Alert**:  
-  [![Countries Visited](https://img.shields.io/badge/Countries%20Visited-10%2B-ff9800?style=flat&logo=airplane&logoColor=white)](https://github.com/your-username)  
-  _ماشية ورا الـ cultures الجديدة زي اللي بيدور على الـ Wi-Fi في مكان نائي!_
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-ASP.NETCore-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-- **💪 Gym Junkie**:  
-  [![Daily Workout Streak](https://img.shields.io/badge/Daily%20Workout%20Streak-100%2B%20Days-ff9800?style=flat&logo=strava&logoColor=white)](https://github.com/your-username)  
-  _الحديد بيسمع كلامي، والـ treadmill بيبقى عايز يبكي لما أشوفه!_
-
-- **🧠 Culture Detective**:  
-  _بتفك شيفرة العادات الغريبة، وبجمع الـ traditions زي اللي بيجمع الـ stickers!_
-
-<details>
- <summary><b>🚀 Bonus Track:</b></summary>
-  
-  ```csharp
-  // Code of My Travel Philosophy:
-  while (alive) 
-  {
-      Explore();
-      Learn();
-      Repeat();
-  }
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raqyahagras&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="raqyahagras" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
+ <img src="https://komarev.com/ghpvc/?username=raqyahagras&style=for-the-badge">
+</a>
